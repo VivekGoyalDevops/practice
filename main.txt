@@ -13,4 +13,9 @@ paymentGateway
     paypal
     visa
     mastercard
+Category
+{
+    men
+    women
+    kids
 }
