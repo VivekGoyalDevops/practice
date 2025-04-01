@@ -8,6 +8,11 @@ sdfgh
 asdfhfgf
 anhnmbv
 dnm
+paymentGateway
+{
+    paypal
+    visa
+    mastercard
 Category
 {
     men
